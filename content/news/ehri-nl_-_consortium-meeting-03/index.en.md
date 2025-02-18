@@ -8,7 +8,7 @@ image: national_holocaust_museum.jpg
 The third meeting of EHRI-NL, the Dutch node of the European Holocaust Research Infrastructure (EHRI) in formation, took place on Sept. 11, 2024, in the auditorium of the National Holocaust Museum in Amsterdam. We reflect fondly on an informative afternoon, in which both the digitization of CABR and the context in which the archive was created were explained in detail.
 {{< /intro >}}
 
-Some forty participants gathered in the auditorium at 1 p.m. for a full program. Almost all present were researchers, historians, scholars, collection specialists, writers or archivists with a relationship to the Holocaust or World War II. Several Dutch institutions, from the VU to the Jewish Cultural Quarter, from the National to the Gelderland Archives, from the NIOD to Camp Westenbork were represented.
+Roughly forty participants gathered in the auditorium at 1 p.m. for a full program. Almost all present were researchers, historians, scholars, collection specialists, writers or archivists with a relationship to the Holocaust or World War II. Several Dutch institutions, from the VU to the Jewish Cultural Quarter, from the National to the Gelderland Archives, from the NIOD to Camp Westenbork were represented.
 
 Researchers and archivists or collection specialists together in one meeting is less common than you might expect. So the theme was, “How Holocaust researchers and archives are generating new insights together. EHRI-NL's scholarly program in relation to the digitization of the Central Archive on Special Jurisdiction (CABR),” with this archive serving as a case study to examine the interaction between researcher and collection managing institution.
 
